@@ -7,6 +7,7 @@ int main(void)
        
 		
 		printf("ID %ld\n",(long)getpid());
+		printf("ID %ld\n",(long)getpid());
 		return 0;
 
 }                                                  
